@@ -1,7 +1,10 @@
 # Higher Lower Game
 
 <h3>Description</h3>
-The Higher Lower Game is a simple command-line game written in Python. The objective is to guess whether celebrity_1 have higher follower or not then the another. This game is a fun way to practice basic Python programming and logic skills.
+The Higher Lower Game is a simple command-line game written in Python.
+It's easy to play. You will be shown two name. You simply have to decide whether the first one has highest follower/fan base or the other one.
+As you progress, you will be shown a new celebrity. Choose higher or lower to decide whether it is searched for more or less than the previous one. The objective is to get the most right in a row. If you get one wrong, you lose the game.
+This game is a fun way to practice basic Python programming and logic skills.
 
 <h2>Demo of game (try out from another website)</h2>
 http://www.higherlowergame.com/
