@@ -1,7 +1,10 @@
 # Higher Lower Game
 
 <h3>Description</h3>
-The Higher Lower Game is a simple command-line game written in Python. The objective is to guess whether the next number in a sequence will be higher or lower than the current number. This game is a fun way to practice basic Python programming and logic skills.
+The Higher Lower Game is a simple command-line game written in Python. The objective is to guess whether celebrity_1 have higher follower or not then the another. This game is a fun way to practice basic Python programming and logic skills.
+
+<h2>Demo of game (try out from another website)</h2>
+http://www.higherlowergame.com/
 
 <h3>Installation</h3>
 To get a copy of this game up and running on your local machine, follow these simple steps:
