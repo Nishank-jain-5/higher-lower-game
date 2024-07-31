@@ -1,3 +1,7 @@
+
+# program to check follower of any celebrity using his/her name
+
+
 from game_data import data
 
 flag = True
