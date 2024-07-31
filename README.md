@@ -8,7 +8,7 @@ To get a copy of this game up and running on your local machine, follow these si
 
 <h3>Clone the repository:</h3>
 
-git clone https://github.com/yourusername/higher-lower-game.git
+git clone https://github.com/Nishank-jain-5/higher-lower-game.git
 
 <h3>Navigate to the project directory:</h3>
 
